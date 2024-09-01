@@ -1,1 +1,1 @@
-export { default as CryptoDataController } from "./CryptoDataController";
+export { default as fetchCryptoData } from "./CryptoDataController";
