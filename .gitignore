@@ -3,3 +3,6 @@ node_modules/
 
 # build artifacts
 dist/
+
+# local env files
+.env

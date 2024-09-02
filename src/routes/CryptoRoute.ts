@@ -3,6 +3,6 @@ import { fetchCryptoData } from "@/controllers";
 
 const router = Router();
 
-router.get("/crypto-price", fetchCryptoData);
+router.get("/crypto-info", fetchCryptoData);
 
 export default router;
