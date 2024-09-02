@@ -49,8 +49,8 @@ The server will start on http://localhost:3000.
 
 ## API Endpoints
 
-URL: /api/crypto-price
-Method: GET
+- URL: /api/crypto-price
+- Method: GET
 
 Query Parameters:
 
@@ -93,7 +93,7 @@ The API returns appropriate error messages in the following scenarios:
 
 ## Technologies Used
 
-Node.js: JavaScript runtime environment.
-Express: Web framework for Node.js.
-Axios: Promise-based HTTP client for making API requests.
-dotenv: Module to load environment variables.
+- Node.js: JavaScript runtime environment.
+- Express: Web framework for Node.js.
+- Axios: Promise-based HTTP client for making API requests.
+- dotenv: Module to load environment variables.
