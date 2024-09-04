@@ -59,7 +59,7 @@ Query Parameters:
 Example Request:
 
 ```bash
-curl "http://localhost:3000/api/crypto-price?coins=BTC,ETH,SOL"
+curl "http://localhost:3000/api/crypto-info?coins=BTC,ETH,SOL"
 ```
 
 Example Response:
